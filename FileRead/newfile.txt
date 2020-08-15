@@ -1,0 +1,2 @@
+Hello, This is Srikanth reading a text file.
+Testing NewLine.
